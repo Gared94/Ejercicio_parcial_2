@@ -1,0 +1,16 @@
+c:\users\jesus vasquez\documents\visual studio 2012\Projects\Progra1Ejercicios\Progra1Ejercicios\bin\Debug\Progra1Ejercicios.exe.config
+c:\users\jesus vasquez\documents\visual studio 2012\Projects\Progra1Ejercicios\Progra1Ejercicios\bin\Debug\Progra1Ejercicios.exe
+c:\users\jesus vasquez\documents\visual studio 2012\Projects\Progra1Ejercicios\Progra1Ejercicios\bin\Debug\Progra1Ejercicios.pdb
+c:\users\jesus vasquez\documents\visual studio 2012\Projects\Progra1Ejercicios\Progra1Ejercicios\obj\Debug\Progra1Ejercicios.csprojResolveAssemblyReference.cache
+c:\users\jesus vasquez\documents\visual studio 2012\Projects\Progra1Ejercicios\Progra1Ejercicios\obj\Debug\Progra1Ejercicios.exe
+c:\users\jesus vasquez\documents\visual studio 2012\Projects\Progra1Ejercicios\Progra1Ejercicios\obj\Debug\Progra1Ejercicios.pdb
+c:\users\jesus vasquez\documents\visual studio 2012\Projects\Progra1Ejercicios\Progra1Ejercicios\bin\Debug\Biblioteca.dll
+c:\users\jesus vasquez\documents\visual studio 2012\Projects\Progra1Ejercicios\Progra1Ejercicios\bin\Debug\Biblioteca.pdb
+C:\Users\epineda\Documents\UTEC\01-2019\Programacion I\Ejercicios\Progra1Ejercicios\Progra1Ejercicios\bin\Debug\Progra1Ejercicios.exe.config
+C:\Users\epineda\Documents\UTEC\01-2019\Programacion I\Ejercicios\Progra1Ejercicios\Progra1Ejercicios\obj\Debug\Progra1Ejercicios.exe
+C:\Users\epineda\Documents\UTEC\01-2019\Programacion I\Ejercicios\Progra1Ejercicios\Progra1Ejercicios\obj\Debug\Progra1Ejercicios.pdb
+C:\Users\epineda\Documents\UTEC\01-2019\Programacion I\Ejercicios\Progra1Ejercicios\Progra1Ejercicios\bin\Debug\Progra1Ejercicios.exe
+C:\Users\epineda\Documents\UTEC\01-2019\Programacion I\Ejercicios\Progra1Ejercicios\Progra1Ejercicios\bin\Debug\Progra1Ejercicios.pdb
+C:\Users\epineda\Documents\UTEC\01-2019\Programacion I\Ejercicios\Progra1Ejercicios\Progra1Ejercicios\bin\Debug\Biblioteca.dll
+C:\Users\epineda\Documents\UTEC\01-2019\Programacion I\Ejercicios\Progra1Ejercicios\Progra1Ejercicios\bin\Debug\Biblioteca.pdb
+C:\Users\epineda\Documents\UTEC\01-2019\Programacion I\Ejercicios\Progra1Ejercicios\Progra1Ejercicios\obj\Debug\Progra1Ejercicios.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+c:\users\jesus vasquez\documents\visual studio 2012\Projects\Progra1Ejercicios\Biblioteca\bin\Debug\Biblioteca.dll
+c:\users\jesus vasquez\documents\visual studio 2012\Projects\Progra1Ejercicios\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\jesus vasquez\documents\visual studio 2012\Projects\Progra1Ejercicios\Biblioteca\obj\Debug\Biblioteca.dll
+c:\users\jesus vasquez\documents\visual studio 2012\Projects\Progra1Ejercicios\Biblioteca\obj\Debug\Biblioteca.pdb
+c:\users\jesus vasquez\documents\visual studio 2012\Projects\Progra1Ejercicios\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\epineda\Documents\UTEC\01-2019\Programacion I\Ejercicios\Progra1Ejercicios\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\epineda\Documents\UTEC\01-2019\Programacion I\Ejercicios\Progra1Ejercicios\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\epineda\Documents\UTEC\01-2019\Programacion I\Ejercicios\Progra1Ejercicios\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\epineda\Documents\UTEC\01-2019\Programacion I\Ejercicios\Progra1Ejercicios\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\epineda\Documents\UTEC\01-2019\Programacion I\Ejercicios\Progra1Ejercicios\Biblioteca\obj\Debug\Biblioteca.pdb
